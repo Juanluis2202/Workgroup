@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Header</title>
+    <link rel="stylesheet" href="./styleheader.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container-header">
+            <img src="./img/Logo.png" alt="">
+            <nav class="container-nav">
+                <ul>
+                    <li>
+                        <a href="#">Fashion</a>
+                    </li>
+                    <li>
+                        <a href="#">Lifestyle</a>
+                    </li>
+                    <li>
+                        <a href="#">Spiritual</a>
+                    </li>
+                    <li>
+                        <a href="#">Mental Health</a>
+                    </li>
+                    <li>
+                        <button class="button">Contact Us</button>
+                    </li>
+                    <li>
+                        <img src="./img/search.png" alt="">
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+</body>
+</html>
